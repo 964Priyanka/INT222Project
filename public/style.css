@@ -20,7 +20,7 @@ section.chat__section {
 }
 .brand {
     padding: 20px;
-    background: #f70101;
+    background: #ea0909;
     display: flex;
     align-items: center;
 }
@@ -44,7 +44,7 @@ textarea {
     padding: 20px;
     font-size: 16px;
     outline: none;
-    background: #71f42f;
+    background: #09e778;
 }
 
 .message {
